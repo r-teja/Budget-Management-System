@@ -12,12 +12,12 @@ An application for every aspect of money
      * WEB_INF   > web.xml
      * All the html files and images
 
-        **Create a WEB-INF folder**
-        **Create classes and lib folder within WEB-INF**
-        **Create a web.xml file within WEB-INF**
-        **classes contains all .class files and .java files**
-        **lib folder contains server and database files**
-        **Below WEB-INF, all HTML files and images are stored**
+*  **Create a WEB-INF folder**
+*  **Create classes and lib folder within WEB-INF**
+*  **Create a web.xml file within WEB-INF**
+*  **classes contains all .class files and .java files**
+*  **lib folder contains server and database files**
+*  **Below WEB-INF, all HTML files and images are stored**
         
         
 ## HTML files
