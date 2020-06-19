@@ -6,16 +6,11 @@ An application for every aspect of money
 
 - These programs are written in aspect of Tomcat Server and are exceuted in Tomcat Server.
 - Steps for deploying Tomcat Server:
-      PROJECTNAME
-          WEB-INF
-             classes
-                all .java files
-                all .class files
-             src
-                ojdbc6.jar fiile
-                servlet-api.jar
-             web.xml
-          All the html files and images
+     * PROJECTNAME
+     * WEB-INF   > classes >> all .java files >> all .class files
+                 > lib >> ojdbc6.jar file >> servlet-api.jar file
+                 > web.xml
+     * All the html files and images
 
 ## HTML files
 
